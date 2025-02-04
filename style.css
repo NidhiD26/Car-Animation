@@ -24,7 +24,7 @@ body{
     background-image: url(trees.png);
     background-size: cover;
     position: absolute;
-    top: -144px;
+    top: -144px; 
 }
 
 .track{
